@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://orcoorco.github.io/podcast-feeds/se.xml" rel="self" type="application/rss+xml"/>
+    <title>Swedish News in Easy German</title>
+    <link>https://orcoorco.github.io/podcast-feeds/index.html</link>
+    <language>de</language>
+    <copyright>Comprehensible Input</copyright>
+    <description><![CDATA[Swedish and world news from a Swedish perspective, spoken in simple and clear German (A2 level) for language learners.]]></description>
+    <itunes:author>Comprehensible Input</itunes:author>
+    <itunes:summary><![CDATA[Swedish and world news from a Swedish perspective, spoken in simple and clear German (A2 level) for language learners.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <pubDate>Sat, 10 Oct 2026 14:27:06 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:27:06 GMT</lastBuildDate>
+    <image>
+      <url>https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/cover.jpg</url>
+      <title>Swedish News in Easy German</title>
+      <link>https://orcoorco.github.io/podcast-feeds/index.html</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Comprehensible Input</itunes:name>
+      <itunes:email>mattias.hallberg@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/cover.jpg"/>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <item>
+      <title>Swedish News in Easy German – 10. Oktober 2026</title>
+      <itunes:title>Swedish News in Easy German – 10. Oktober 2026</itunes:title>
+      <pubDate>Sat, 10 Oct 2026 12:55:06 GMT</pubDate>
+      <guid isPermaLink="false">de-se-2026-10-10</guid>
+      <link>https://orcoorco.github.io/podcast-feeds/index.html</link>
+      <itunes:author>Comprehensible Input</itunes:author>
+      <itunes:duration>1283</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/cover.jpg"/>
+      <podcast:chapters url="https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/episodes/2026-10-10.chapters.json" type="application/json+chapters"/>
+      <description><![CDATA[<p>Welcome to Swedish News in Easy German! Today is October 10, 2026. In this episode, we bring you the most important news from Sweden and world events from a Swedish perspective, spoken in clear and simple German (A2 level) to help you improve your listening skills.</p>
+
+
+<h3>Chapters / Kapitel:</h3>
+<ul>
+<li><strong>00:00</strong> Intro & Schlagzeilen</li>
+<li><strong>01:17</strong> 1. Klimaaktivisten blockieren Flughafen Bromma</li>
+<li><strong>04:06</strong> 2. Schwedendemokraten bedauern Kopftuchverbot</li>
+<li><strong>06:41</strong> 3. Trauer um Finanzexperten Jan Bolmeson</li>
+<li><strong>09:39</strong> 4. Gespräche über Abschiebungen nach Syrien</li>
+<li><strong>12:13</strong> 5. Schwedischer Blick auf Trumps Dieselvertrag</li>
+<li><strong>15:13</strong> 6. Navi Pillay gewinnt den Friedensnobelpreis</li>
+<li><strong>17:54</strong> 7. Erfreuliche Nachrichten aus schwedischen Wäldern</li>
+<li><strong>20:57</strong> Outro</li>
+</ul>
+
+<h3>Today's Stories:</h3>
+<ul>
+<li>Klimaaktivisten blockieren Flughafen Bromma</li>
+<li>Schwedendemokraten bedauern Kopftuchverbot</li>
+<li>Trauer um Finanzexperten Jan Bolmeson</li>
+<li>Gespräche über Abschiebungen nach Syrien</li>
+<li>Schwedischer Blick auf Trumps Dieselvertrag</li>
+<li>Navi Pillay gewinnt den Friedensnobelpreis</li>
+<li>Erfreuliche Nachrichten aus schwedischen Wäldern</li>
+</ul>
+
+<h3>Vocabulary from this episode:</h3>
+<ul>
+<li><strong>der Flughafen</strong> (airport): Ein Ort mit Startbahnen und Gebäuden, wo Flugzeuge landen und abfliegen.</li>
+<li><strong>die Startbahn</strong> (runway): Ein langer, asphaltierter Weg, auf dem Flugzeuge beschleunigen und abheben.</li>
+<li><strong>der Schutz</strong> (protection): Die Hilfe oder Maßnahme, die eine Person oder die Umwelt vor Gefahr bewahrt.</li>
+<li><strong>der Wähler</strong> (voter): Eine wahlberechtigte Person, die bei einer Wahl ihre Stimme für eine Partei abgibt.</li>
+<li><strong>der Fehler</strong> (mistake): Eine falsche Entscheidung oder Handlung, die zu einem schlechten Ergebnis führt.</li>
+<li><strong>das Verbot</strong> (ban / prohibition): Eine offizielle Regel, die bestimmt, dass man eine Sache nicht tun darf.</li>
+<li><strong>das Geld</strong> (money): Münzen oder Geldscheine, mit denen man Waren und Dienstleistungen bezahlt.</li>
+<li><strong>das Sparen</strong> (saving): Das bewusste Zurücklegen von Geld, um es für die Zukunft aufzubewahren.</li>
+<li><strong>die Zukunft</strong> (future): Die Zeit, die nach der Gegenwart noch kommen wird.</li>
+<li><strong>das Gericht</strong> (court): Eine staatliche Institution, in der Richter nach den Gesetzen Recht sprechen.</li>
+<li><strong>die Sicherheit</strong> (security / safety): Ein Zustand, in dem man vor Gefahren und Verbrechen geschützt ist.</li>
+<li><strong>das Verbrechen</strong> (crime): Eine sehr schwere Straftat, die gegen das Gesetz verstößt.</li>
+<li><strong>der Vertrag</strong> (contract / treaty): Eine schriftliche oder mündliche Vereinbarung mit festen Regeln zwischen zwei Seiten.</li>
+<li><strong>die Energie</strong> (energy): Die Kraft aus Strom, Gas oder Öl, mit der Maschinen und Heizungen arbeiten.</li>
+<li><strong>der Krieg</strong> (war): Ein bewaffneter, gewaltsamer Konflikt zwischen Staaten oder Volksgruppen.</li>
+<li><strong>der Frieden</strong> (peace): Ein Zustand ohne Streit, Krieg und Gewalt, in dem Menschen ruhig leben können.</li>
+<li><strong>das Recht</strong> (law / rights): Die Gesamtheit aller gültigen Gesetze und Regeln in einem Staat.</li>
+<li><strong>der Preis</strong> (prize / award): Eine Belohnung oder Auszeichnung für eine besondere persönliche Leistung.</li>
+<li><strong>der Wald</strong> (forest): Eine große Fläche mit vielen dicht beieinander stehenden Bäumen und Pflanzen.</li>
+<li><strong>das Tier</strong> (animal): Ein lebendiges Lebewesen in der Natur, das sich selbstständig bewegen kann.</li>
+<li><strong>die Natur</strong> (nature): Die gesamte lebendige Umwelt mit Pflanzen, Tieren, Bergen und Gewässern.</li>
+</ul>
+
+<p><em>Learn German naturally every day with fresh world news.</em></p>]]></description>
+      <itunes:summary><![CDATA[Welcome to Swedish News in Easy German! Today is October 10, 2026. In this episode, we bring you the most important news from Sweden and world events from a Swedish perspective, spoken in clear and simple German (A2 level) to help you improve your listening skills.
+
+Today's stories:
+- Climate activists glue themselves to aircraft at Stockholm's Bromma Airport, disrupting flights.
+- Sweden Democrat
+
+Chapters:
+00:00 Intro & Schlagzeilen
+01:17 1. Klimaaktivisten blockieren Flughafen Bromma
+04:06 2. Schwedendemokraten bedauern Kopftuchverbot
+06:41 3. Trauer um Finanzexperten Jan Bolmeson
+09:39 4. Gespräche über Abschiebungen nach Syrien
+12:13 5. Schwedischer Blick auf Trumps Dieselvertrag
+15:13 6. Navi Pillay gewinnt den Friedensnobelpreis
+17:54 7. Erfreuliche Nachrichten aus schwedischen Wäldern
+20:57 Outro]]></itunes:summary>
+      <content:encoded><![CDATA[<p>Welcome to Swedish News in Easy German! Today is October 10, 2026. In this episode, we bring you the most important news from Sweden and world events from a Swedish perspective, spoken in clear and simple German (A2 level) to help you improve your listening skills.</p>
+
+
+<h3>Chapters / Kapitel:</h3>
+<ul>
+<li><strong>00:00</strong> Intro & Schlagzeilen</li>
+<li><strong>01:17</strong> 1. Klimaaktivisten blockieren Flughafen Bromma</li>
+<li><strong>04:06</strong> 2. Schwedendemokraten bedauern Kopftuchverbot</li>
+<li><strong>06:41</strong> 3. Trauer um Finanzexperten Jan Bolmeson</li>
+<li><strong>09:39</strong> 4. Gespräche über Abschiebungen nach Syrien</li>
+<li><strong>12:13</strong> 5. Schwedischer Blick auf Trumps Dieselvertrag</li>
+<li><strong>15:13</strong> 6. Navi Pillay gewinnt den Friedensnobelpreis</li>
+<li><strong>17:54</strong> 7. Erfreuliche Nachrichten aus schwedischen Wäldern</li>
+<li><strong>20:57</strong> Outro</li>
+</ul>
+
+<h3>Today's Stories:</h3>
+<ul>
+<li>Klimaaktivisten blockieren Flughafen Bromma</li>
+<li>Schwedendemokraten bedauern Kopftuchverbot</li>
+<li>Trauer um Finanzexperten Jan Bolmeson</li>
+<li>Gespräche über Abschiebungen nach Syrien</li>
+<li>Schwedischer Blick auf Trumps Dieselvertrag</li>
+<li>Navi Pillay gewinnt den Friedensnobelpreis</li>
+<li>Erfreuliche Nachrichten aus schwedischen Wäldern</li>
+</ul>
+
+<h3>Vocabulary from this episode:</h3>
+<ul>
+<li><strong>der Flughafen</strong> (airport): Ein Ort mit Startbahnen und Gebäuden, wo Flugzeuge landen und abfliegen.</li>
+<li><strong>die Startbahn</strong> (runway): Ein langer, asphaltierter Weg, auf dem Flugzeuge beschleunigen und abheben.</li>
+<li><strong>der Schutz</strong> (protection): Die Hilfe oder Maßnahme, die eine Person oder die Umwelt vor Gefahr bewahrt.</li>
+<li><strong>der Wähler</strong> (voter): Eine wahlberechtigte Person, die bei einer Wahl ihre Stimme für eine Partei abgibt.</li>
+<li><strong>der Fehler</strong> (mistake): Eine falsche Entscheidung oder Handlung, die zu einem schlechten Ergebnis führt.</li>
+<li><strong>das Verbot</strong> (ban / prohibition): Eine offizielle Regel, die bestimmt, dass man eine Sache nicht tun darf.</li>
+<li><strong>das Geld</strong> (money): Münzen oder Geldscheine, mit denen man Waren und Dienstleistungen bezahlt.</li>
+<li><strong>das Sparen</strong> (saving): Das bewusste Zurücklegen von Geld, um es für die Zukunft aufzubewahren.</li>
+<li><strong>die Zukunft</strong> (future): Die Zeit, die nach der Gegenwart noch kommen wird.</li>
+<li><strong>das Gericht</strong> (court): Eine staatliche Institution, in der Richter nach den Gesetzen Recht sprechen.</li>
+<li><strong>die Sicherheit</strong> (security / safety): Ein Zustand, in dem man vor Gefahren und Verbrechen geschützt ist.</li>
+<li><strong>das Verbrechen</strong> (crime): Eine sehr schwere Straftat, die gegen das Gesetz verstößt.</li>
+<li><strong>der Vertrag</strong> (contract / treaty): Eine schriftliche oder mündliche Vereinbarung mit festen Regeln zwischen zwei Seiten.</li>
+<li><strong>die Energie</strong> (energy): Die Kraft aus Strom, Gas oder Öl, mit der Maschinen und Heizungen arbeiten.</li>
+<li><strong>der Krieg</strong> (war): Ein bewaffneter, gewaltsamer Konflikt zwischen Staaten oder Volksgruppen.</li>
+<li><strong>der Frieden</strong> (peace): Ein Zustand ohne Streit, Krieg und Gewalt, in dem Menschen ruhig leben können.</li>
+<li><strong>das Recht</strong> (law / rights): Die Gesamtheit aller gültigen Gesetze und Regeln in einem Staat.</li>
+<li><strong>der Preis</strong> (prize / award): Eine Belohnung oder Auszeichnung für eine besondere persönliche Leistung.</li>
+<li><strong>der Wald</strong> (forest): Eine große Fläche mit vielen dicht beieinander stehenden Bäumen und Pflanzen.</li>
+<li><strong>das Tier</strong> (animal): Ein lebendiges Lebewesen in der Natur, das sich selbstständig bewegen kann.</li>
+<li><strong>die Natur</strong> (nature): Die gesamte lebendige Umwelt mit Pflanzen, Tieren, Bergen und Gewässern.</li>
+</ul>
+
+<p><em>Learn German naturally every day with fresh world news.</em></p>]]></content:encoded>
+      <enclosure url="https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/episodes/2026-10-10.mp3" length="20527961" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
