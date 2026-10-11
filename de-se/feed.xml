@@ -14,8 +14,8 @@
     <itunes:author>Comprehensible Input</itunes:author>
     <itunes:summary><![CDATA[Swedish and world news from a Swedish perspective, spoken in simple and clear German (A2 level) for language learners.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
-    <pubDate>Sun, 11 Oct 2026 05:30:11 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 05:30:11 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 05:37:48 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:37:48 GMT</lastBuildDate>
     <image>
       <url>https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/cover.jpg</url>
       <title>Swedish News in Easy German</title>
@@ -163,7 +163,7 @@ Chapters:
 </ul>
 
 <p><em>Learn German naturally every day with fresh world news.</em></p>]]></content:encoded>
-      <enclosure url="https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/episodes/2026-10-11.mp3" length="18410116" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/episodes/2026-10-11.mp3" length="18410116" type="audio/mpeg"/>
     </item>
     <item>
       <title>Swedish News in Easy German – 10. Oktober 2026</title>
@@ -299,7 +299,7 @@ Chapters:
 </ul>
 
 <p><em>Learn German naturally every day with fresh world news.</em></p>]]></content:encoded>
-      <enclosure url="https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/episodes/2026-10-10.mp3" length="20527961" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://pub-55d9cd521c454a599c64fd91abb7e9d3.r2.dev/de-se/episodes/2026-10-10.mp3" length="20527961" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
